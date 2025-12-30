@@ -28,17 +28,6 @@ Welcome to my cybersecurity learning journey! This roadmap outlines the steps I�
 
 ---
 
-## 🏆 Progress Badges
-!A+
-!Cybersecurity Foundation
-!Python
-!CCNA
-!Linux
-!Security+
-!SOC
-
----
-
 ## ✅ How I Track Progress
 - **Main Roadmap Project:** High-level phases.
 - **Repo-specific Kanban Boards:** Detailed tasks for each certification.
