@@ -48,7 +48,6 @@ Welcome to my cybersecurity learning journey! This roadmap outlines the steps I�
 ---
 
 ## 📬 Connect With Me
-## 📬 Connect With Me
 ![LinkedIn](https://www.linkedin.com/in/dina-jundia-255207256)
 ![GitHub](https://github.com/dinajendeya)
 ![Email](dinajendeya@gmail.com)
