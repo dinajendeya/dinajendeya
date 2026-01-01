@@ -39,6 +39,6 @@ This roadmap outlines the steps I’m taking to become a SOC Analyst and Bug Bou
 ---
 
 ## 📬 Connect With Me
-![LinkedIn](https://www.linkedin.com/in/dina-jundia-255207256)
+![LinkedIn]([https://www.linkedin.com/in/dina-jundia-255207256](https://www.linkedin.com/in/dina-jendeya-255207256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 ![GitHub](https://github.com/dinajendeya)
 ![Email](dinajendeya@gmail.com)
