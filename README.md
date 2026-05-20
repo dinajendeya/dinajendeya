@@ -15,19 +15,8 @@ This roadmap outlines the steps I’m taking to become a SOC Analyst and Bug Bou
 - **Phase 4:** CCNA Networking
 - **Phase 5:** Linux Security Journey
 - **Phase 6:** Security+
-- **Phase 7:** SOC Analyst & Bug Bounty
-
----
-
-## 📌 My Projects
-- [CompTIA A+](https://github.com/dinajendeya/CompTIA-Aplus.git)
-- [Cybersecurity Foundation](https://github.com/dinajendeya/Cybersecurity-Foundation.git)
-- [Python for Cybersecurity](https://github.com/dinajendeya/PythonCyber-Challenges.git)
-- [CCNA Networking Labs](https://github.com/dinajendeya/CCNA-Networking.git)
-- [Linux Security Journey](https://github.com/dinajendeya/Linux-Journey.git)
-- [TryHackMe Adventureus](https://github.com/dinajendeya/TryHackMe-Adventures.git)
-- [Security+](https://github.com/dinajendeya/CompTIA-SecurityPlus.git)
-
+- **Phase 7:** TryHackMe Pentesting labs
+- 
 ---
 
 ## ✅ How I Track Progress
