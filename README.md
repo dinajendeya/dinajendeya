@@ -4,7 +4,7 @@
 
 Welcome to my cybersecurity learning journey! 
 Starting at 2026
-This roadmap outlines the steps I’m taking to become a SOC Analyst and Bug Bounty Hunter step by step.
+This roadmap outlines the steps I’m taking to become a Pentester and Bug Bounty Hunter step by step.
 
 ---
 
