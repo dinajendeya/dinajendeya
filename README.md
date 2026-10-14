@@ -1,4 +1,4 @@
-<img width="4032" height="862" alt="image" src="https://github.com/user-attachments/assets/e7ea6fcf-0672-41fe-991d-c70683d79172" /># 👋 Hi, I'm Dina Jendeya
+
 
 🔐 Security-Focused Backend Developer  
 🛡️ Application Security Engineer & Penetration Tester  
