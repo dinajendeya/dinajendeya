@@ -107,11 +107,6 @@ A healthcare-focused application designed to improve communication and service a
 
 [CareLink Health System](https://carelink-health-system.onrender.com/)
 
-### ✍️ Cybersecurity Blog
-
-A personal space where I share cybersecurity notes, learning experiences, technical write-ups, and security concepts.
-
-[CyberBlog]()
 ---
 
 ## 🏴‍☠️ Hands-On Cybersecurity Platforms
