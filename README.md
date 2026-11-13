@@ -87,7 +87,7 @@ My goal is to bridge software development and security by building secure system
 - Python for Cybersecurity
 - TryHackMe Pentesting Labs
 - Secure Coding Practices & API Security
-- PortSwigger | OWSAP Top 10 Vulnerablities
+- PortSwigger | OWSAP Top 10 Vulnerablities (in progress)
 
 ### 🎯 Future Goals
 
@@ -115,18 +115,6 @@ A healthcare-focused application designed to improve communication and service a
 - OverTheWire
 - PortSwigger Web Security Academy
 - Hack The Box (Upcoming)
-
----
-
-## 📈 2026 Goals
-
-- Build secure backend applications
-- Expand my Application Security knowledge
-- Complete Security+
-- Complete CCNA
-- Publish security-related articles and write-ups
-- Contribute to security-focused projects
-- Create a strong AppSec and Pentesting portfolio
 
 ---
 
